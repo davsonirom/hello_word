@@ -1,4 +1,4 @@
-# hello_word fluuter
+# hello_word flutter
 
 Inicinado os estudos com flutter
 
